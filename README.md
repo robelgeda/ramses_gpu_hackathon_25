@@ -1,4 +1,4 @@
-# Sprint 
+# Notes from Slack
 
 ## Goals 
 Here is a list of tasks we will discuss tomorrow.
